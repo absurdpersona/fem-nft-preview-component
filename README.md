@@ -31,7 +31,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [Solution](https://www.frontendmentor.io/solutions/nft-preview-component-card-with-flexbox-4fH-81Jnrr)
 - Live Site URL: [Live Site](https://delone-femnft.netlify.app)
 
 ## My process
